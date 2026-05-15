@@ -1,3 +1,5 @@
+![CI](https://github.com/jacintandungu-cell/shopping-cart/actions/workflows/ci.yml/badge.svg)
+
 # 🛍️ Dynamic Shopping Cart App
 
 A React-based shopping cart application built as part of a lab project to practice **state management**, **event handling**, and **conditional rendering** using the `useState` hook.  
